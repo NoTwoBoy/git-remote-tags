@@ -1,0 +1,32 @@
+{
+  "name": "git-remote-tags",
+  "version": "1.0.0",
+  "description": "Get remote git tags.",
+  "main": "index.ts",
+  "type": "module",
+  "dependencies": {
+    "@types/node": "^16.11.7",
+    "typescript": "^4.4.4"
+  },
+  "devDependencies": {
+    "ts-node": "^10.4.0"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pineapple0919/git-remote-tags.git"
+  },
+  "keywords": [
+    "nodejs",
+    "typescript",
+    "git"
+  ],
+  "author": "pineapple",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pineapple0919/git-remote-tags/issues"
+  },
+  "homepage": "https://github.com/Pineapple0919/git-remote-tags#readme"
+}
